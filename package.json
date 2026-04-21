@@ -12,8 +12,10 @@
     "directory": "modules/wraith-keylog"
   },
   "main": "index.jsx",
+  "peerDependencies": {
+    "react": "^18.0.0"
+  },
   "dependencies": {
-    "@framework/ui": "workspace:*",
-    "react": "^18.3.1"
+    "@framework/ui": "workspace:*"
   }
 }
