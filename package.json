@@ -1,0 +1,12 @@
+{
+  "name": "@wraith/module-keylog",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "description": "Keyboard logger with live display, frequency heatmap, text reconstruction, replay, and export",
+  "main": "index.jsx",
+  "dependencies": {
+    "@framework/ui": "workspace:*",
+    "react": "^18.3.1"
+  }
+}
