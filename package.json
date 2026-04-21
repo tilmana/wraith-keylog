@@ -3,7 +3,14 @@
   "version": "1.0.0",
   "type": "module",
   "private": true,
+  "license": "MIT",
+  "author": "tilmana",
   "description": "Keyboard logger with live display, frequency heatmap, text reconstruction, replay, and export",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tilmana/wraith",
+    "directory": "modules/wraith-keylog"
+  },
   "main": "index.jsx",
   "dependencies": {
     "@framework/ui": "workspace:*",
