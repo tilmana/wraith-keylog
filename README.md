@@ -30,4 +30,4 @@ None.
 
 ## Install
 
-Register in `server/src/index.ts` and `ui/src/main.tsx`. See the main Wraith README for details.
+Clone or copy this directory into the Wraith `modules/` folder, run `pnpm install`, and restart the dev server. The framework discovers modules automatically.
