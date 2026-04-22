@@ -8,8 +8,7 @@
   "description": "Keyboard logger with live display, frequency heatmap, text reconstruction, replay, and export",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tilmana/wraith",
-    "directory": "modules/wraith-keylog"
+    "url": "https://github.com/tilmana/wraith-keylog"
   },
   "main": "index.jsx",
   "peerDependencies": {
